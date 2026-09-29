@@ -52,3 +52,9 @@
 ## 🌱 Learning Journey
 
 Currently focusing on strengthening my programming fundamentals, improving problem-solving skills, and exploring new areas in technology.
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-k-b935623b2/)
